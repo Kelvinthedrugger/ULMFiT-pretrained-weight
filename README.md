@@ -24,8 +24,14 @@ link
 link
 
 ### gradually unfreeze's
-link
-link
+unfreeze to -1 layer
+
+unfreeze to -2 layer
+
+unfreeze to -3 layer
+
+unfreeze all
+
 ...
 
 ## Citation
