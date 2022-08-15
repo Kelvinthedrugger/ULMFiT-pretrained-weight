@@ -15,24 +15,17 @@ not sure if Git for large files would work
 
 Even better if there's a way to compress the files without damage to the original files
 
+Stuff listed in [Items](https://github.com/Kelvinthedrugger/ULMFiT-pretrained-weight/edit/main/README.md#items) is all you needed to do a text classification use AWD_LSTM model arch.
+
 ## Items
 
 ### stage1
-link
+[link](https://www.dropbox.com/s/77ujgedl5hs8aic/stage1.pth)
 
 ### finetune1
-link
+[link](https://www.dropbox.com/s/zzv5u8stafi0qoi/finetune_stage_finished_0815.pth)
 
-### gradually unfreeze's
-unfreeze to -1 layer
 
-unfreeze to -2 layer
-
-unfreeze to -3 layer
-
-unfreeze all
-
-...
 
 ## Citation
 [arXiv:1801.06146v5](https://arxiv.org/abs/1801.06146v5)
