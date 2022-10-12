@@ -5,6 +5,16 @@ Link of both the thesis and code can be found on [papers with code](https://pape
 
 Hope this will help people that try to use deep learning to solve problems
 
+## Plot twist
+
+There WERE pretrained weights (on a smaller DS)...
+
+```bash
+!wget http://files.fast.ai/models/wt103_tiny.tgz
+!tar xf {path}/wt103_tiny.tgz -C {path}
+```
+, and everything would just work out of the box
+
 ## Note
 I use AWD_LSTM architecture & IMDB dataset to train the whole thing, just like how the [original notebook](https://github.com/fastai/fastai/blob/master/nbs/examples/ulmfit.ipynb) did.
 
